@@ -1,0 +1,8 @@
+{
+  "name": "parcel-pug-sass-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:YuMuuu/parcel-pug-sass-template.git",
+  "author": "@curelemonade2",
+  "license": "MIT"
+}
